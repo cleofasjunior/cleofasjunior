@@ -37,15 +37,6 @@ Aqui estão provas concretas da minha capacidade de resolver problemas com códi
 
 ---
 
-### ⚡ GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleofasjunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleofasjunior&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ### 🤝 Comunidade & Liderança
 
 * 🎓 **DIO Campus Alumni:** Lidero comunidades universitárias conectando estudantes ao mercado tech e disseminando .NET.
